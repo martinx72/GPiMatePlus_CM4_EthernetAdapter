@@ -9,7 +9,7 @@ also works for [RGR Mini SS for CM4](https://retrogamerestore.com/store/minisscm
 **BOM**. 
 | Item | Part Number |
 | ------ | ------ |
-| U$1 | HA911130A |
+| U$1 | HR911130A |
 | C1 | 0805 100nF Capacitor |
 | CON1 | Hirose FH12-20S-0.5SH |
 | Cable | FFC Cable pitch 0.5mm 20Pins |
